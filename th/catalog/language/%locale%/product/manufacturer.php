@@ -1,0 +1,27 @@
+<?php
+// Heading
+$_['heading_title']     = 'ค้นหายี่ห้อ สินค้าที่คุณชอบ';
+
+// Text
+$_['text_brand']        = 'ยี่ห้อ';
+$_['text_index']        = 'ตามตัวอักษร:';
+$_['text_error']        = 'ไม่พบยี่ห้อ ที่คุณหา!';
+$_['text_empty']        = 'ไม่พบรายการสินค้าที่ค้นหา.';
+$_['text_quantity']     = 'จำนวน:';
+$_['text_manufacturer'] = 'ยี่ห้อสินค้า:';
+$_['text_model']        = 'รหัสสินค้า:';
+$_['text_points']       = 'คะแนนสะสม:';
+$_['text_price']        = 'ราคา:';
+$_['text_tax']          = 'ยังไม่รวม ภาษี:';
+$_['text_compare']      = 'เปรียบเทียบสินค้า (%s)';
+$_['text_sort']         = 'เรียงตามลำดับ:';
+$_['text_default']      = 'รายการหลัก';
+$_['text_name_asc']     = 'ชื่อ (ก - ฮ)';
+$_['text_name_desc']    = 'ชื่อ (ฮ - ก)';
+$_['text_price_asc']    = 'ราคา (ต่ำ &gt; สูง)';
+$_['text_price_desc']   = 'ราคา (สูง &gt; ต่ำ)';
+$_['text_rating_asc']   = 'คะแนน (ต่ำสุด)';
+$_['text_rating_desc']  = 'คะแนน (สูงสุด)';
+$_['text_model_asc']    = 'รหัสสินค้า (ก - ฮ)';
+$_['text_model_desc']   = 'รหัสสินค้า (ฮ - ก)';
+$_['text_limit']        = 'แสดงรายการ:';
