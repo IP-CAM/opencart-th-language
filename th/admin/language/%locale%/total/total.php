@@ -3,7 +3,7 @@
 $_['heading_title']    = 'รวมทั้งหมด';
 
 // Text
-$_['text_total']       = 'Order Totals';
+$_['text_total']       = 'คำสั่งซื้อทั้งหมด';
 $_['text_success']     = 'Success: You have modified total totals!';
 $_['text_edit']        = 'แก้ไขรวมทั้งหมด';
 
